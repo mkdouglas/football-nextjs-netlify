@@ -1,19 +1,13 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://mkfootball-next.netlify.app",
+  "site_title": "MK Football",
+  "site_description": "An Arsenal fan's random thoughts on the beautiful game.",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "football",
+    "arsenal",
+    "the beautiful game"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@4mkdouglas",
+  "github_account": "mkdouglas"
 }
